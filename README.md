@@ -75,6 +75,5 @@ a serial plotter com o sistema funcinando:
 Todas as caracteristicas desritas e previstas são obsevadas neste gráfico.
 
 ![](img/graf01.png)
-![](img/graf05.png)
 
 ## Para verificar o código completo basta clicar no link abaixo.
